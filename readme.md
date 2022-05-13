@@ -1,5 +1,5 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# 3D Advertisement Demo
+Created to demonstrate integration with identity-valuation algorithm (downloadable from repository on this website: sites.google.com/sas.edu.sg/identity-data-valuation
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
